@@ -6,16 +6,16 @@ Highly motivated **Full-Stack Developer** focused on building fast, scalable web
 
 ### 🚀 What I'm Up To
 
-* 🔭 **Currently Working On:** **[Planora]()** — A next-generation, full-stack event management platform featuring advanced planning tools and AI-driven search capabilities.
+* 🔭 **Currently Working On:** **[Planora](https://planora-frontend-mu.vercel.app/)** — A next-generation, full-stack event management platform featuring advanced planning tools and AI-driven search capabilities.
 * 🌱 **Currently Learning:** Advanced **RAG (Retrieval-Augmented Generation)** architectures, system design patterns, and optimizing containerized environments using **Docker**.
-* 🤝 **Looking to Collaborate On:** Open-source full-stack web applications (especially projects utilizing the **Next.js** or **FastAPI** ecosystems).
+* 🤝 **Looking to Collaborate On:** Open-source full-stack web applications (especially projects utilizing the **Next.js** or **NodeJs** ecosystems).
 * 💬 **Looking for Help With:** Advanced PostgreSQL indexing, optimizing vector database performance for AI embeddings, and designing scalable semantic search workflows.
 
 ---
 
 ### ⚡ Ask Me About
 
-* **Backend & APIs:** Building high-performance REST APIs with **Python (FastAPI)** and **Node.js (Express)**.
+* **Backend & APIs:** Building high-performance REST APIs with **Node.js (Express)**.
 * **Type-Safe Databases:** Designing solid relational structures using **TypeScript**, **Prisma ORM**, and **PostgreSQL**.
 * **Security & Auth:** Implementing secure authentication flows (JWT, OAuth, Passport.js).
 * **Modern Frontend:** Creating dynamic, responsive user interfaces with **Next.js**, **React**, and **Tailwind CSS**.
