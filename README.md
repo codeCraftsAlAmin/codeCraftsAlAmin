@@ -1,6 +1,6 @@
 ## 👨‍💻 About Me
 
-Highly motivated **Full-Stack Developer** focused on building fast, scalable web applications and integrating intelligent features. I specialize in crafting robust backend architectures, type-safe database schemas, and seamless user experiences.
+Highly motivated **Full-Stack Developer** focused on building fast, scalable web applications and integrating intelligent features.
 
 ---
 
