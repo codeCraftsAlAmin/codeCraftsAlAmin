@@ -1,6 +1,24 @@
-# 💫 About Me:
-I’m currently working on Planora(A full stack event management project)<br>I’m looking to collaborate on open-source full-stack web applications<br>I’m looking for help with mastering advanced database indexing techniques, optimizing PostgreSQL vector database performance, and implementing complex AI-powered search workflows<br>I’m currently learning advanced RAG (Retrieval-Augmented Generation) techniques, system design patterns, and scaling containerized environments using Docker.<br>Ask me about building robust REST APIs and integrating TypeSafe database models using Prisma & TypeScript, setting up authentication flows, or database management.
+## 👨‍💻 About Me
 
+Highly motivated **Full-Stack Developer** focused on building fast, scalable web applications and integrating intelligent features. I specialize in crafting robust backend architectures, type-safe database schemas, and seamless user experiences.
+
+---
+
+### 🚀 What I'm Up To
+
+* 🔭 **Currently Working On:** **[Planora]()** — A next-generation, full-stack event management platform featuring advanced planning tools and AI-driven search capabilities.
+* 🌱 **Currently Learning:** Advanced **RAG (Retrieval-Augmented Generation)** architectures, system design patterns, and optimizing containerized environments using **Docker**.
+* 🤝 **Looking to Collaborate On:** Open-source full-stack web applications (especially projects utilizing the **Next.js** or **FastAPI** ecosystems).
+* 💬 **Looking for Help With:** Advanced PostgreSQL indexing, optimizing vector database performance for AI embeddings, and designing scalable semantic search workflows.
+
+---
+
+### ⚡ Ask Me About
+
+* **Backend & APIs:** Building high-performance REST APIs with **Python (FastAPI)** and **Node.js (Express)**.
+* **Type-Safe Databases:** Designing solid relational structures using **TypeScript**, **Prisma ORM**, and **PostgreSQL**.
+* **Security & Auth:** Implementing secure authentication flows (JWT, OAuth, Passport.js).
+* **Modern Frontend:** Creating dynamic, responsive user interfaces with **Next.js**, **React**, and **Tailwind CSS**.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1EBnZMwkGk/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/al_amin.ahmed_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/al-amin-ahmed-916882408/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/https://x.com/al_amin1139) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alaminahmed7980@gmail.com) 
